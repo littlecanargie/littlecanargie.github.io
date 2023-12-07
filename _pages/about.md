@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Rm 617, Tsing Hua Lab</p>
-    <p>101, Sec 2, Guangfu Rd</p>
-    <p>East Dist, Hsinchu City 300014, Taiwan</p>
+  more_info: # >
+    # <p>Rm 617, Tsing Hua Lab</p>
+    # <p>101, Sec 2, Guangfu Rd</p>
+    # <p>East Dist, Hsinchu City 300014, Taiwan</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

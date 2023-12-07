@@ -6,7 +6,7 @@ title: egs lab # the website title (if blank, full name will be used instead)
 title_logo: true # use logo instead of website title
 show_title: false # show website title at the top of the about page
 first_name: Ming-Chieh
-middle_name: "RG"
+middle_name: 
 last_name: Shih
 email: mcshih@mx.nthu.edu.tw
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
