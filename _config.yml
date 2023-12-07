@@ -4,6 +4,7 @@
 
 title: egs lab # the website title (if blank, full name will be used instead)
 title_logo: true # use logo instead of website title
+show_title: false # show website title at the top of the about page
 first_name: Ming-Chieh
 middle_name: "RG"
 last_name: Shih
