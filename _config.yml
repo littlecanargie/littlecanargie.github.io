@@ -6,6 +6,7 @@ title: egs lab # the website title (if blank, full name will be used instead)
 title_logo: false # set to true if want to use logo instead of website title
 show_title: true # show website title at the top of the about page
 header_name: true # set to true if want to use name in header
+about_name: true # set to true if want to use name in about page
 first_name: egs
 middle_name: 
 last_name: lab
