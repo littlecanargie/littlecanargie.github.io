@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:  # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 title_logo: false # use logo instead of website title
 show_title: true # show website title at the top of the about page
 first_name: egs
