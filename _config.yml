@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: egs lab # the website title (if blank, full name will be used instead)
+title:  # the website title (if blank, full name will be used instead)
 title_logo: true # use logo instead of website title
-show_title: false # show website title at the top of the about page
-first_name: Ming-Chieh
+show_title: true # show website title at the top of the about page
+first_name: egs
 middle_name: 
-last_name: Shih
+last_name: lab
 email: mcshih@mx.nthu.edu.tw
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
